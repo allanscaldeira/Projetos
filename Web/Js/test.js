@@ -1,1 +1,0 @@
-console.assert((x == 1), "assert message: x != 1")
